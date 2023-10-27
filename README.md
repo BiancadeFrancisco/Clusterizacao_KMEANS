@@ -1,4 +1,4 @@
-# Clusterizacao_KMEANS
+# Clusterizacao_Kmeans
 ## Descrição Projeto
 
 
